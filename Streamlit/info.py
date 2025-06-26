@@ -32,10 +32,10 @@ course_data = [{
     }]
 experience_data = {
     "Repairman at Trainz": (["- Worked on repairing toy trains (not fun don't do it)",
-                                                                          "- Increased Company Revenue by 200 dollars", "- Made Mr. Krabs Proud"],"images/Trainz.png"),
+                                                                          "- Increased Company Revenue by 200 dollars", "- Made Mr. Krabs Proud"],"Streamlit/images/Trainz.png"),
     "Warehouse Worker at VTS America":(["Unloaded packages in a warehouse (not fun again)",
-                                                           "- Increased customer visits by three folds by making restaurant clean"],"images/VTS.png"),
-    "Lube Tech at Strickland":(["Blew up car engine for fun and got the company sued (very fun would recommend)"],"images/Strickland.png")
+                                                           "- Increased customer visits by three folds by making restaurant clean"],"Streamlit/images/VTS.png"),
+    "Lube Tech at Strickland":(["Blew up car engine for fun and got the company sued (very fun would recommend)"],"Streamlit/images/Strickland.png")
 
 }
 
@@ -64,7 +64,7 @@ spoken_data = {
     "English": "Fluent",
 }
 leadership_data = {
-    "Lanier Robotics MFG LEad": (["Hated it would never tell anyone to do FRC again"],"images/Dog.jpg"),
+    "Lanier Robotics MFG LEad": (["Hated it would never tell anyone to do FRC again"],"Streamlit/images/Dog.jpg"),
 
 }
 activity_data={
