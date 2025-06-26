@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/ME.jpg"
+profile_picture = "Streamlit/images/ME.jpg"
 about_me = "I'm Davis I am a student at tech majoring in IE. I hate code, with a burning passtion that it makes the sun wear sunglasses"
 
 
